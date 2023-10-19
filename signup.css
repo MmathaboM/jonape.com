@@ -1,0 +1,35 @@
+.form{
+    width: 250px;
+    height: 380px;
+    background-color: #fff;
+    /* background: url(images/unarmed.jpeg); */
+    position: relative;
+    top: 40px;
+    text-align: center;
+    left: 500px;
+    border-radius: 10px;
+    padding: 50px;
+}
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #8fc8df;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+
+
+}
+.form input{
+width: 240px;
+height: 35px;
+border-bottom: 1px soid #fff;
+border-top: none;
+border-right: none;
+border-left: none;
+
+
+}
